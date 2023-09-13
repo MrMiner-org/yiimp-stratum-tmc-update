@@ -1,4 +1,7 @@
 # yiimp stratum tmc update
 
-uncheck "use segwit" 
+Coin setup in admin backend
+
+![](1.png)
+![](2.png)
  
